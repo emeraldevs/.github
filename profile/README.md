@@ -4,7 +4,8 @@ O nome dos projetos se baseam em o nome de pedras (preciosas, semi-preciosas ou 
 
 ## ⚒️ Repositorios
 
-- [Emerald-Landing](https://github.com/emeraldevs/landing-page) - contem informações e apresentação da organizacao
+- [Esmeralda](https://github.com/emeraldevs/esmeralda) - Preojeto seed para iniciar novos projetos
+- [Esmeralda Landing](https://github.com/emeraldevs/esmeralda-landing) - Contém informações e apresentação da organizacao
 
 ## ✨ Código de Conduta
 
