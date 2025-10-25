@@ -9,4 +9,5 @@ O nome dos projetos se baseam em nome de pedras (preciosas, semi-preciosas ou n�
 
 ## ✨ Código de Conduta
 
-Respeito + Se você é mais irritante para trabalhar do que suas contribuições justificam, você será expulso.
+1. Respeito
+2. Se você é mais irritante para trabalhar do que suas contribuições justificam, você será expulso.
