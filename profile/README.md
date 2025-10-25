@@ -2,7 +2,7 @@
 
 O nome dos projetos se baseam em nome de pedras (preciosas, semi-preciosas ou não preciosas).
 
-## ⚒️ Repositorios
+## ⚒️ Repositórios
 
 - [Esmeralda](https://github.com/emeraldevs/esmeralda) - Projeto base para iniciar novos projetos
 - [Esmeralda Landing](https://github.com/emeraldevs/esmeralda-landing) - Contém informações e apresentação da organizacao
